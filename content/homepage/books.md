@@ -1,16 +1,12 @@
 ---
-title: "Books & Publications"
-header_menu_title: "Publications"
-navigation_menu_title: "Books & Publications"
+title: "Books"
+header_menu_title: "Books"
+navigation_menu_title: "Books"
 weight: 10
 header_menu: true
 ---
 
-To explore his complete catalog of books and publications, please visit the following [link](books). For those eager to delve into his most recent works, below are three of his latest & most popular publications, each of which is available on Amazon for your convenience.
-
-To see all of his books on Amazon, you can use this [link](https://www.amazon.com/stores/Donald-R.-Hickey/author/B001ITW0L4).
-
----
+To explore his complete catalog of books and publications, please visit the following [link](books). For those eager to delve into his most recent works, below are four of his latest & most popular publications, each of which is available on Amazon for your convenience.
 
 ### Tecumseh's War: The Epic Conflict for the Heart of America
 
@@ -41,3 +37,16 @@ historic conflict, is a mythshattering study that will inform and entertain stud
 
 In this entertaining and meticulously researched book by America's leading authority on the War of 1812, Donald R. Hickey dispels the many misconceptions that distort our view of America's second war with Great Britain. Embracing military, naval, political, economic, and diplomatic history, Hickey looks carefully at how the war was fought between 1812 and 1815, and how it was remembered thereafter. Who actually won the war, and what was its lasting legacy? Hickey peels away fantasies and embellishments to explore why certain myths gained currency and how they contributed to the way that the United States and Canada view themselves and each other.
 
+---
+
+### Glorious Victory: Andrew Jackson and the Battle of New Orleans
+
+![Glorious Victory: Andrew Jackson and the Battle of New Orleans](images/books/glorious-victory.jpg)
+
+[`{{<icon class="fa fa-amazon">}}` Amazon](https://www.amazon.com/Glorious-Victory-Jackson-Orleans-Witness/dp/1421417030/)
+
+Whether or not the United States "won" the war of 1812, the Battle of New Orleans played a central role in shaping how Americans remembered the conflict.  Because this battle involved the larger-than-life frontier hero Andrew Jackson and ended in such a lop-sided British defeat, it contributed as much as anything else to the myth of American victory.   Drawing on a lifetime of research, leading War of 1812 scholar Donald R. Hickey examines Jackson's complex and contradictory character and his remarkable success as a military leader, culminating in what proved to be the defining battle of the War of 1812.
+
+---
+
+[`{{<icon class="fa fa-amazon">}}` Amazon <--- Click here to see all of his work available on Amazon](https://www.amazon.com/stores/Donald-R.-Hickey/author/B001ITW0L4).
