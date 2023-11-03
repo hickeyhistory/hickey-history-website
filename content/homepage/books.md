@@ -6,7 +6,7 @@ weight: 10
 header_menu: true
 ---
 
-To explore his complete catalog of books and publications, please visit the following [link](books). For those eager to delve into his most recent works, below are four of his latest & most popular publications, each of which is available on Amazon for your convenience.
+---
 
 ### Tecumseh's War: The Epic Conflict for the Heart of America
 
