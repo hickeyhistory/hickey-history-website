@@ -6,6 +6,8 @@ weight: 20
 header_menu: true
 ---
 
+![Don Lecturing](images/don-lecture.jpg)
+
 Don offers a broad range of lectures geared for scholars and the general public alike. Here are some of his most interesting or popular. 
 
 ---
