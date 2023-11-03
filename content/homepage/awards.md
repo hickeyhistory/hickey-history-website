@@ -5,16 +5,16 @@ weight: 80
 header_menu: true
 ---
 
-- Best Book Award in 1990 for his work, The War of 1812: A Forgotten Conflict, from the American Military Institute's
-- National Historical Society Book Prize, 1990 for The War of 1812: A Forgotten Conflict.
-- Burlington Northern Award, 1991 for outstanding teaching
-- Commander's Award, 1992–1993, for Public Service, U.S. Army Command and General Staff College
-- Pi Gamma Mu, Outstanding Faculty Member award
-- Burlington Northern Award, 1993 for outstanding scholarship
-- Maryland Preservation Award, 2013, Excellence in Media & Publications award
-- Spirit of 1812 Award, 2013, from the National Society United States Daughters of 1812
-- Samuel Eliot Morison Award, 2013, from the USS Constitution Museum
-- Nebraska 150 Books honor, 2017, for his work, Nebraska Moments
-- NEH Research Fellowship for College Teachers, 1988.
-- The History Book Club selected his work, War of 1812: A Forgotten Conflict, for book club edition.
-- Speaker at the 1987 meeting of the American Historical Association.
+- Phi Beta Kappa, University of Illinois, Urbana-Champaign, 1966.
+- Finalist, Nebraska State College Teaching Excellence Award, 1986, 1991, 1993, 2020.
+- American Military Institute's Best Book Award (for The War of 1812:  A Forgotten Conflict), 1990.
+- National Historical Society's Book Prize (for The War of 1812:  A Forgotten Conflict), 1990.
+- Burlington Northern Award (for outstanding teaching), 1991.
+- Nominee, Professor of the Year, Council for Advancement and Support of Education (CASE), 1991.
+- Commander's Award for Public Service, U.S. Army Command and General Staff College, 1992.
+- Pi Gamma Mu Outstanding Faculty Member, 1992-93.
+- Burlington Northern Award (for outstanding scholarship), 1993.
+- Maryland Preservation Award for Excellence in Media & Publications (for contribution to In Full Glory Reflected), 2013.
+- Spirit of 1812 Award, National Society United States Daughters of 1812, 2013.
+- Samuel Eliot Morison Award, USS Constitution Museum, 2013.
+- State Nebraska Bank & Trust Teaching Excellence Award, 2020.
