@@ -6,7 +6,8 @@ header_image: "images/lecture-hall-blur.jpg"
 header_use_video: false
 #
 # Optional header logo. CSS: `#blog-logo`, with max-height defined, optimize to prevent scaling
-header_logo: "images/don-lecture.jpg"
+header_logo: "images/don-lecture.png"
+#header_logo: "images/nbg-don-lecture.png"
 #
 # Headers are safeHTML, you can use HTML tags such as b,i,u,br
 header_headline: "Donald R. Hickey"
