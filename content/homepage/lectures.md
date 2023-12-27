@@ -6,7 +6,7 @@ weight: 20
 header_menu: true
 ---
 
-Don offers a broad range of lectures geared for scholars and the general public alike. Below are some of his most interesting or popular. 
+Don offers a broad range of lectures geared for scholars and the general public alike. Below are some of his most interesting and popular. 
 
 {{< youtube kwRUhigbeoQ >}}
 
