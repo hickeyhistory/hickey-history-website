@@ -32,4 +32,4 @@ Don offers a broad range of lectures geared for scholars and the general public 
 - "Our Political Divisions Today: An Historical Perspective." Looks at earlier periods in which the nation was deeply divided and suggests a solution for today’s troubles.
 - "Two Hundred Years of American Wars, 1775-1975: An Overview and Assessment." Looks at the nation’s twelve major wars and for each conflict examines American war aims and war plans, whether there was any domestic opposition, and what the outcome and the legacy were.
 - "The Rise and Fall of American Political Parties: A Hypothesis." Looks at the rise and fall of political parties since their emergence in the 1790s and offers a theory on why they were initially successful but later failed and in some cases disappeared altogether.
-- "America's Contested Elections, 1789-1815." Exmaines ten U.S. presidential elections that were eitherly bitterly contested or had unusual or controversial outcomes.
+- "America's Contested Elections, 1789-Present." Exmaines ten U.S. presidential elections that were eitherly bitterly contested or had unusual or controversial outcomes.
